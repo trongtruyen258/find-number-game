@@ -1,0 +1,20 @@
+#box_num {
+  display: flex;
+  flex-wrap: wrap;
+}
+.div_num {
+  background: black;
+  padding: 3px;
+  font-size: 35px;
+  width: 60px;
+  height: 40px;
+  border-radius: 10px;
+  color: #fff;
+  margin-top: 15px;
+  margin-right: 15px;
+  cursor: default;
+  text-align: center;
+}
+.active {
+  background: red;
+}
